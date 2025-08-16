@@ -29,7 +29,6 @@ build/
 coverage/
 
 # Solidity compiler artifacts
-*.json
 !hardhat.config.js
 !truffle-config.js
 
